@@ -1,4 +1,10 @@
 # 🐶 AdoptionPlace  
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+    <img src="https://i.postimg.cc/rw2s5VFt/Screenshot-20250314-021218.png" alt="Login" width="200">
+    <img src="https://i.postimg.cc/3xjRBsdf/Screenshot-20250314-021319.png" alt="Home" width="200">
+    <img src="https://i.postimg.cc/Gpqp0vPk/Screenshot-20250314-021357.png" alt="List" width="200">
+    <img src="https://i.postimg.cc/CKFK6c8h/Screenshot-20250314-021740.png" alt="Cart" width="200">
+</div>
 
 ## 📌 Project Overview  
 **AdoptionPlace** is a mobile application designed to connect users with NGOs and shelters to facilitate dog adoptions. The app serves as a **centralized hub for adoption listings**, helping rescue organizations find homes for abandoned dogs. Users can browse available dogs, add them to an adoption cart, and complete the adoption process seamlessly.  
