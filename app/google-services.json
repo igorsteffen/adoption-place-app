@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367203056300",
+    "project_id": "adoption-place-app",
+    "storage_bucket": "adoption-place-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367203056300:android:3cbd6120ac537ce22efd09",
+        "android_client_info": {
+          "package_name": "com.example.adoptionplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfZIb-cJlCASeWIYF1zNQLlklAf7D8uXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
