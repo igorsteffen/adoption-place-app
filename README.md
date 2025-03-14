@@ -16,7 +16,7 @@
 
 ### 🔹 1. Clone the Repository  
 ```sh
-git clone https://github.com/your-username/AdoptionPlace.git
+git clone https://github.com/igorsteffen/adoption-place-app.git
 cd AdoptionPlace
 ```
 
@@ -71,10 +71,4 @@ cd AdoptionPlace
 🔹 **Firebase Authentication** for user management  
 🔹 **SQLite / SharedPreferences** for data persistence  
 🔹 **RecyclerView** for listing dogs efficiently  
-
----
-
-## 📞 Contact  
-For questions or contributions, feel free to reach out:  
-📧 Email: **igorsteffen@hotmail.com**  
-🔗 GitHub: igorsteffen(https://github.com/igorsteffen)  
+ 
