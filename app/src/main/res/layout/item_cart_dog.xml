@@ -6,14 +6,14 @@
     android:layout_height="wrap_content"
     app:cardCornerRadius="16dp"
     app:cardElevation="8dp"
-    android:layout_margin="10dp">
+    android:layout_marginHorizontal="30dp"
+    android:layout_marginTop="15dp">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:padding="16dp"
-        android:layout_marginTop="50dp">
+        android:padding="16dp">
 
         <ImageView
             android:id="@+id/dogImage"
@@ -26,13 +26,15 @@
             android:layout_height="wrap_content"
             android:text="Breed: Labrador"
             android:textSize="18sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold"
+            android:layout_marginTop="8dp"/>
 
         <TextView android:id="@+id/textViewAge"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Age: 3 years"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:layout_marginTop="8dp"/>
 
         <TextView android:id="@+id/textViewGender"
             android:layout_width="wrap_content"
@@ -45,6 +47,7 @@
             android:layout_height="wrap_content"
             android:text="Remove"
             android:backgroundTint="#FF0000"
-            android:textColor="#FFF"/>
+            android:textColor="#FFF"
+            android:layout_marginTop="10dp"/>
     </LinearLayout>
 </androidx.cardview.widget.CardView>

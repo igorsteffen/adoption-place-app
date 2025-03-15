@@ -13,6 +13,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.text.HtmlCompat;
 
 import com.bumptech.glide.Glide;
+import com.example.adoptionplace.utils.CartManager;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -20,6 +21,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // 🚀 Inicializa o CartManager
+        CartManager.initialize(this);
 
         ImageView gifImageView2 = findViewById(R.id.gifImageView2);
 
